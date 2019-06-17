@@ -1,7 +1,7 @@
 # Mechanics of granular column collapse in fluids
 > Krishna Kumar, Kenichi Soga and Jean-Yves Delenne (2019), Pasadena, CA. 19 June 2019.
 
-[https://kks32-slides.github.io/2018-italy/#/](https://kks32-slides.github.io/2019-emi/#/)
+[https://kks32-slides.github.io/2019-emi/#/](https://kks32-slides.github.io/2019-emi/#/)
 
 [![License](https://img.shields.io/badge/license-cc--by--4.0-brightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
 
